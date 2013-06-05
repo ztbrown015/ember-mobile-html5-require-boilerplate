@@ -5,7 +5,7 @@ The purpose of this project is to provide a starting point for emberjs + require
 
 ### Method
 
-We'll be adding require.js to the ember-mobile-html5-boilerplate [http://emberjs.com/] 
+We'll be adding require.js to the [ember-mobile-html5-boilerplate](https://github.com/mohu/ember-mobile-html5-boilerplate)
 
 
  
